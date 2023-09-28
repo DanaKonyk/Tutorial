@@ -1,6 +1,5 @@
-
-body {
-    font-family: 'Montserrat', sans-serif;
+<<<<<<< HEAD body {
+  font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -32,11 +31,12 @@ p {
 }
 
 span {
-    display: inline-block;
-    width: 200px;
-    border: 2px solid rgb(3, 35, 139);
-    margin-bottom: 5px;
-    border-radius: 8px;
-    padding: 4px;
+  display: inline-block;
+  width: 200px;
+  border: 2px solid rgb(3, 35, 139);
+  margin-bottom: 5px;
+  border-radius: 8px;
+  padding: 4px;
 }
 
+=======
